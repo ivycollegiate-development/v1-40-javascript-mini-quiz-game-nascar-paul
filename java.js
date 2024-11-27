@@ -1,5 +1,5 @@
 // Variables (explain what each variable is for):
-const correctAnswer = “Paris”;
+const correctAnswer = "Paris";
 let score = 0;
 
 const buttons = document.querySelectorAll(".answerButton");
